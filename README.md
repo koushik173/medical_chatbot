@@ -1,4 +1,8 @@
 # Medical-Chatbot-using-Llama2
+## Developed a medical chatbot utilizing the LLAMA2 model, Hugging Face embedding, Pinecone VectorDB and Flask. Implemented advanced natural language processing for effective and efficient user interactions in the medical domain.
+
+## Here project demo as simple
+![Image 1](images/ui.png)
 
 # How to run?
 ### STEPS:
